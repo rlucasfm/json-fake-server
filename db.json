@@ -4,5 +4,27 @@
             "username": "richard",
             "password": "lucas"
         }
-    ]
+    ],
+    "items_by_category": {
+        "bebidas": [
+            {
+                "name": "Suco",
+                "img": "img1"
+            },
+            {
+                "name": "Refrigerante",
+                "img": "img_refri"
+            }
+        ],
+        "salgados": [
+            {
+                "name": "Coxinha",
+                "img": "img-coxinha"
+            },
+            {
+                "name": "Pastel",
+                "img": "img-pastel"
+            }
+        ]
+    }
 }
